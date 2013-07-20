@@ -1812,7 +1812,7 @@ int main(int argc, char **argv) {
      init();
      glutInitWindowPosition(50,50);
 	 glutInitWindowSize(840,560);
-	 glutCreateWindow("Komplek Perumahan Nalungun BY Kelompok 4"); 
+	 glutCreateWindow("kompleks vila"); 
      glClearColor( 0.1, 0.5, 1, 0);
      glutDisplayFunc(renderScene);
      glutIdleFunc(renderScene);
